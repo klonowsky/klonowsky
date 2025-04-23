@@ -1,4 +1,8 @@
 ## Hi there 👋
+🤖 AI Solutions Architect | Flowise
+💡 Automatyzacja, analiza danych, mosty między branżami
+🚀 Ex-Project Manager dla 80+ projektów
+🔗 Let’s disrupt tech!
 
 <!--
 **klonowsky/klonowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
